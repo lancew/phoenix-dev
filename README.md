@@ -1,4 +1,4 @@
-# Hello work Phoenix dockerized project
+# Hello World Phoenix dockerized project
 
 ## Step-by-step to setup development environment
 
